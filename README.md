@@ -10,3 +10,4 @@ In order to test out this project, follow these steps:
     in the backend folder, run: pip install -r requirements.txt
     in the backend folder, run: python manage.py migrate
     in the backend folder, run: python manage.py runserver
+Open  https://infohold.herokuapp.com/ with your browser to see the result.
